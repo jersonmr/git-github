@@ -1,0 +1,28 @@
+{
+  "name": "git-github",
+  "version": "1.0.0",
+  "description": "Notas sobre curso de Git y GitHub de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jersonmr/git-github.git"
+  },
+  "keywords": [
+    "Git",
+    "GitHub",
+    "notas",
+    "repositorios"
+  ],
+  "author": "Jerson Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jersonmr/git-github/issues"
+  },
+  "homepage": "https://github.com/jersonmr/git-github#readme",
+  "dependencies": {
+    "bulma": "^0.6.2"
+  }
+}
