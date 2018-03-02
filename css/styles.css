@@ -6,9 +6,6 @@
 .navbar {
   background-color: transparent;
 }
-.header__logo {
-  
-}
 .header__img {
   width: 64px;
 }
@@ -16,3 +13,17 @@
   color: rgba(255, 255, 255, 0.75);
   font-family: 'Indie Flower', cursive;
 }
+
+/* Menu */
+.menu {
+  font-family: 'Indie Flower', cursive;
+}
+.menu .menu-label {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.menu a {
+  font-size: 1.2rem;
+}
+ 
